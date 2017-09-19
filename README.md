@@ -5,3 +5,7 @@
 Anwesenheit:  
 Strauß, Strutz, Tuttner, Uhl, Waltl, Wieser, Zitz
 
+Thema
+-Git
+-Github
+-Markdown
