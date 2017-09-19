@@ -8,7 +8,7 @@ Strauß, Strutz, Tuttner, Uhl, Waltl, Wieser, Zitz
 **Thema**
 * Git
 * Github
-* Markdown
+* *Markdown*
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 
