@@ -4,7 +4,7 @@
 
 Anwesenheit:  
 Strauß, Strutz, Tuttner, Uhl, Waltl, Wieser, Zitz
-
+![ * Thema: * ](https://www.aha.io/assets/github.7433692cabbfa132f34adb034e7909fa.png)
 **Thema**
 * Git
 * Github
@@ -20,3 +20,4 @@ int main()
 printf("Hallo!");
 return 0;
 }
+
