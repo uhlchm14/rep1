@@ -12,7 +12,7 @@ Strauß, Strutz, Tuttner, Uhl, Waltl, Wieser, Zitz
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 
-
+~~~C
 #include <stdio.h>
 
 int main()
@@ -20,4 +20,4 @@ int main()
 printf("Hallo!");
 return 0;
 }
-
+~~~
