@@ -21,7 +21,7 @@ return 0;
 }
 ~~~
 
-##Laboreinheit 26.09.17
+## Laboreinheit 26.09.17
 
 Anwesenheit:
 Strauß, Strutz, Tuttner, Uhl, Waltl, Wieser, Zitz
